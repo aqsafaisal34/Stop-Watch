@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    text-align: center;
+}
+
+.stopWatch{
+    display: flex;
+    justify-content:center;
+}
+.stopWatch>h2{
+    border:1px solid black;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 10px;
+}
+button{
+    background-color: #8fd3f4;
+    padding:5px;
+    border-radius: 20px;
+    font-size: 1rem;
+    margin: 10px;
+
+}
